@@ -1,2 +1,2 @@
 # pagina-curso
-Mi primera pagina usando parallax
+Es una pagina de cursos donde use por primera vez el parallax
